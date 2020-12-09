@@ -17,7 +17,7 @@ When creating tables with a NOSQL database it is import too know what queries yo
     3. Give me every user name (first and last) in my music app history who listened to the song 'All Hands Against His Own'
 
 ### Run
-I am running this program with jupyter notebook thrugh terminal. Prerequisites for running the project is python 3.x and Apache cassandra installed.
+I am running this program with jupyter notebook through terminal. Prerequisites for running the project is python 3.x and Apache cassandra installed.
 
 ## How to run
 1. Run Jupiter notebook using terminal.
